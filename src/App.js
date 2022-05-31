@@ -1,5 +1,7 @@
+import Results from './pages/Results';
+
 function App() {
-  return <h1>Hello</h1>;
+  return <Results />;
 }
 
 export default App;
